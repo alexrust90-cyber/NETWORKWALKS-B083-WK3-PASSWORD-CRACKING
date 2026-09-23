@@ -194,12 +194,18 @@ All activities were performed within the authorized training environment provide
 
 ---
 
-Author: 
-Alexandra Rustamova
-Cybersecurity professional B083
-LinkedIn: https://www.linkedin.com/in/alexandra-rustamova-631a1439a/
+## Author
+
+**Alexandra Rustamova**  
+Cybersecurity Professional — B083, Networkwalks
+
+**LinkedIn:** [Alexandra Rustamova](https://www.linkedin.com/in/alexandra-rustamova-631a1439a/)
 
 ---
 
-Project Information
-Program Name: Cybersecurity program at Networkwalks | Week: 03 | Repository: GitHub
+## Project Information
+
+**Program:** Cybersecurity & Ethical Hacking Internship — Networkwalks  
+**Week:** 03  
+**Topic:** Exploitation & Credential Attacks  
+**Repository:** GitHub
